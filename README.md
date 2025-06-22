@@ -24,7 +24,7 @@ This project compares two topic modeling techniques: **Latent Dirichlet Allocati
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Clean and normalize Bahasa Indonesia review text  
 - Compare **LDA** (with `gensim`) and **LSA** (with `TruncatedSVD`)  
@@ -37,7 +37,7 @@ This project compares two topic modeling techniques: **Latent Dirichlet Allocati
 
 ---
 
-## 🔑 Final Topic Labels (4 Topics)
+## Final Topic Labels (4 Topics)
 
 1. **Fasilitas Umum dan Kenyamanan Area Publik**  
 2. **Kebersihan dan Kualitas Sarana Prasarana**  
@@ -48,7 +48,7 @@ Topic selection is based on coherence optimization, keyword co-occurrence, and v
 
 ---
 
-## 📦 Output Files
+## Output Files
 
 | File Path                                      | Description                         |
 |-----------------------------------------------|-------------------------------------|
@@ -58,7 +58,7 @@ Topic selection is based on coherence optimization, keyword co-occurrence, and v
 
 ---
 
-## 📚 Libraries Used
+## Libraries Used
 
 - `pandas`, `nltk`, `Sastrawi`, `re`, `emoji`
 - `gensim`, `scikit-learn`, `pyLDAvis`, `matplotlib`, `seaborn`
